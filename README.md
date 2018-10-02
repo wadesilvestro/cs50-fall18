@@ -9,3 +9,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSdOMPi6PcA0_BP0VHM2kmvaY50GcZQib-8snIFj
 
 ## Section 2 - 9/25/18
 Slides: https://github.com/wadesilvestro/cs50-fall18/blob/master/slides/slides2.pdf
+
+## Section 3 - 10/2/18
+Slides: https://github.com/wadesilvestro/cs50-fall18/blob/master/slides/slides3.pdf
