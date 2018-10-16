@@ -15,3 +15,6 @@ Slides: https://github.com/wadesilvestro/cs50-fall18/blob/master/slides/slides3.
 
 ## Section 4 - 10/9/18
 Slides: https://github.com/wadesilvestro/cs50-fall18/blob/master/slides/slides4.pdf
+
+## Section 5 - 10/16/18
+Slides: https://github.com/wadesilvestro/cs50-fall18/blob/master/slides/slides5.pdf
